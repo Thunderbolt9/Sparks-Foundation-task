@@ -25,7 +25,7 @@ This repository consists of **Data Science** tasks by sparks foundation network 
 - Open your git bash terminal and copy paste below code.
   ```
   cd name_of_folder_to_copy
-  git clone https://github.com/Thunderbolt9/House-sales-analysis.git
+  git clone https://github.com/Thunderbolt9/Sparks-Foundation-task.git
   ```
   - The above line of code first opens a folder you want and then clone the files of this repository into the folder.
 
@@ -41,16 +41,13 @@ c:\users\name\> jupyter notebook
 
 ## Links 🔗
 
-- Repository: https://github.com/Thunderbolt9/Student-Management-system
+- Repository: https://github.com/Thunderbolt9/Sparks-Foundation-task
   - In case of sensitive bugs like security vulnerabilities, please contact
     yadavyash0904@gmail.com directly instead of using issue tracker. We value your effort
     to improve the security and privacy of this project!
 
 - My other project:
-
-Covid-19 Data analysis: https://github.com/Thunderbolt9/Covid_19-analysis
-
-Python 3 specialization (coursera): https://github.com/Thunderbolt9/py3_programming
+https://github.com/Thunderbolt9?tab=repositories
 
 ## Licensing ⚖️ 
 
