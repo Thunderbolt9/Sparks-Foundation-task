@@ -1,4 +1,4 @@
-# Sparks-Foundation-task
+# Sparks-Foundation-task 📊
 > Welcome viewers 🙂
 
 This repository consists of **Data Science** tasks by sparks foundation network under **Graduate Rotational Internship Program** (GRIP). 
@@ -37,8 +37,8 @@ c:\users\name\> jupyter notebook
 - Follow the comments mentioned in the project.
 - Note keep all the files in same folder.
 ## Output 💻
-
-
+### Some of the important visualization
+![](https://github.com/Thunderbolt9/Sparks-Foundation-task/blob/master/Task-2/Grip_task_2_image.PNG)
 ## Links 🔗
 
 - Repository: https://github.com/Thunderbolt9/Sparks-Foundation-task
