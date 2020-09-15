@@ -38,7 +38,10 @@ c:\users\name\> jupyter notebook
 - Note keep all the files in same folder.
 ## Output 💻
 ### Some of the important visualization
-![](https://github.com/Thunderbolt9/Sparks-Foundation-task/blob/master/Task-2/Grip_task_2_image.PNG)
+![Task-2](https://github.com/Thunderbolt9/Sparks-Foundation-task/blob/master/Task-2/Grip_task_2_image.PNG)
+
+![Task-3](https://github.com/Thunderbolt9/Sparks-Foundation-task/blob/master/Task-3/Grip_task_3_image.PNG)
+
 ## Links 🔗
 
 - Repository: https://github.com/Thunderbolt9/Sparks-Foundation-task
