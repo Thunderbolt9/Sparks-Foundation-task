@@ -42,6 +42,8 @@ c:\users\name\> jupyter notebook
 
 ![Task-3](https://github.com/Thunderbolt9/Sparks-Foundation-task/blob/master/Task-3/Grip_task_3_image.PNG)
 
+![Task-5](https://github.com/Thunderbolt9/Sparks-Foundation-task/blob/master/Task-5/pic1.PNG)
+
 ## Links 🔗
 
 - Repository: https://github.com/Thunderbolt9/Sparks-Foundation-task
